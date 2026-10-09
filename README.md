@@ -1,3 +1,5 @@
+**Alunos:** Felipe e Victor
+
 # Giroflex
  
 Este projeto utiliza uma placa **arduino uno** para criar um giroflex
